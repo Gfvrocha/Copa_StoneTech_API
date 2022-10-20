@@ -1,3 +1,4 @@
+using Amazon.Auth.AccessControlPolicy;
 using Microsoft.EntityFrameworkCore;
 using ProjetoCopa.Data;
 
@@ -27,6 +28,13 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseHttpsRedirection();
+app.UseCors(x => x
+                  .AllowAnyOrigin()
+                  .AllowAnyMethod()
+                  .AllowAnyHeader()
+                  );
 
 app.UseAuthorization();
 
