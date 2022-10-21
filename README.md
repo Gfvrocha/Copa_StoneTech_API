@@ -90,7 +90,7 @@
 
 <h2>🛠️ Desenvolvimento </h2>
 <h4 align= "center"> 
-✔️ Metodologias Ágeis: Para ter uma melhor produtividade no desenvolvimento do projeto HelloBank foi utilizado a metologia ágil Kabam. Dessa forma, para melhor organização o projeto foi fragmentado em quatro quadros, sendo que cada quadro tinha a seguinte sequência: backlog onde foi passado a história(descrição) e as nossas metas para completar as tarefas sinalizas, to do(a fazer) as tarefas que precisam ser comprimidas, doing(em andamento) as tarefas que já estão sendo desenvolvidas e done(finalizado) as tarefas que foram compridas, visto que, para cada projeto foi proposto um prazo de entrega e após isso foi feito reuniões para avilar cada etapa finalizada.
+✔️ Metodologias Ágeis: Para ter uma melhor produtividade no desenvolvimento do projeto HelloBank foi utilizado a metologia ágil Kanban. Dessa forma, para melhor organização o projeto foi fragmentado em quatro quadros, sendo que cada quadro tinha a seguinte sequência: backlog onde foi passado a história(descrição) e as nossas metas para completar as tarefas sinalizas, to do(a fazer) as tarefas que precisam ser comprimidas, doing(em andamento) as tarefas que já estão sendo desenvolvidas e done(finalizado) as tarefas que foram compridas, visto que, para cada projeto foi proposto um prazo de entrega e após isso foi feito reuniões para avilar cada etapa finalizada.
  <a href="https://trello.com/b/GjDkxi74/grupo-3-stone-tech-pcd" alt="aqui" /> Clique aqui para visualizar os cards.
  </a>
 <br>
