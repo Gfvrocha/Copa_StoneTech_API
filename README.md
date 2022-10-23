@@ -132,3 +132,4 @@
   <h4 align= "center" >
    ⁠"O curso pode ter acabado, mas o conhecimento adquirido é para sempre!"
   <h4>
+# Copa_StoneTech_API
